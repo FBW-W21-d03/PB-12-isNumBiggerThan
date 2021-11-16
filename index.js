@@ -5,9 +5,9 @@ console.log (foo1 + foo2);
 function testNum(a) {
     let result;
     if (a > 0) {
-      result = 'richtig';
+      result = 'positiv';
     } else {
-      result = 'falsch';
+      result = 'negativ';
     }
     return result;
   }
